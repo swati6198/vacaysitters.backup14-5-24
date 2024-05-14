@@ -15,11 +15,29 @@ $dbname = "vacaysitters";
 /*
 commented section
 
-/*
-comment section
 */
+/*
+commented section
 
+*//*
+commented section
 
+*//*
+commented section
+
+*//*
+commented section
+
+*//*
+commented section
+
+*//*
+commented section
+
+*//*
+commented section
+
+*/
 
 try {
     	$connection = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
