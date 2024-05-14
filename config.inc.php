@@ -12,6 +12,8 @@ $username = "vacaysitters";
 $password = "vacaysitters";
 $dbname = "vacaysitters";
 
+/*
+commented section
 
 /*
 comment section
