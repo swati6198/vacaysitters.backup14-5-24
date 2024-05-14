@@ -12,7 +12,10 @@ $username = "vacaysitters";
 $password = "vacaysitters";
 $dbname = "vacaysitters";
 
+/*
+commented section
 
+*/
 
 try {
     	$connection = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
